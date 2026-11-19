@@ -1,0 +1,36 @@
+body {
+    background-color: #f4efe5;
+    color: #292522;
+    font-family: Georgia, serif;
+}
+
+.navbar {
+    background-color: #281b1b !important;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+h1, h2, h3 {
+    color: #740f20;
+}
+
+h4{
+    color: #251901;
+}
+
+p {
+    font-size: 17px;
+    
+}
+
+.card {
+    background-color: #fffaf0;
+    border: 1px solid #c5a45d;
+}
+
+.btn-warning {
+    background-color: #c5a45d;
+    border: none;
+}
